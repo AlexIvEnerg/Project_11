@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Project_11.iml" filepath="$PROJECT_DIR$/Project_11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Quantity_of_words/Quantity_of_words.iml" filepath="$PROJECT_DIR$/Quantity_of_words/Quantity_of_words.iml" />
       <module fileurl="file://$PROJECT_DIR$/Simple_regular_express/Simple_regular_express.iml" filepath="$PROJECT_DIR$/Simple_regular_express/Simple_regular_express.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The_palindrome/The_palindrome.iml" filepath="$PROJECT_DIR$/The_palindrome/The_palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Word_with_min_of_char/Word_with_min_of_diff_char.iml" filepath="$PROJECT_DIR$/Word_with_min_of_char/Word_with_min_of_diff_char.iml" />
     </modules>
   </component>
